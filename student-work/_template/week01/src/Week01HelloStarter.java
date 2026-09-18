@@ -7,7 +7,7 @@ public class Week01HelloStarter {
     */
 
         System.out.println("Tom Herbert.");
-        System.out.println("TODO: add your course goal.");
+        System.out.println("TODO: add your course goal xxx.");
         System.out.println("TODO: add one more line about yourself.");
     }
 }
